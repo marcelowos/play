@@ -2,7 +2,7 @@
 //mogoose uses mongodb library (installed in the connectMongo... file) behind the scenes
 //so we can use mongodb methods too
 const mongoose = require('mongoose')
-
+//teste
 
 //connect to databse - databasAddres/databaseName
 mongoose.connect(process.env.MONGODB_URL)
